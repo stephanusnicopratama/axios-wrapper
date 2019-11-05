@@ -1,4 +1,5 @@
 {
+  "name": "axios-wrapper",
   "devDependencies": {
     "tslint": "^6.0.0-beta0",
     "typescript": "^3.6.4",
